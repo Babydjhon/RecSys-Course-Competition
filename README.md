@@ -35,4 +35,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Babyddjhon/RecSys-Course-Competition.git
+   https://github.com/Babydjhon/RecSys-Course-Competition.git
